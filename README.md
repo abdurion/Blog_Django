@@ -9,7 +9,7 @@
  
  in cmd run:
  
-  python manage.py runserver
+     python manage.py runserver
  
  then go to the default port on the localhost which is:
  
