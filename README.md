@@ -6,8 +6,12 @@
 
  ## HOW-TO run the server
  download the zip file, extract and navigate to it.
+ 
  in cmd run:
+ 
   python manage.py runserver
+ 
  then go to the default port on the localhost which is:
+ 
   localhost:8000
 
