@@ -1,11 +1,7 @@
 # django_project
- The idea is to create and explore new django features.
- 
- Built the admin at /admin with a generic user admin and pw 123456.  
- 
- Also manage to create a page for /about with correct routing.
- 
- Added the functionality to add posts from the admin control panel with the approriate fields.
+I built a fully functional website with GUI for posting new posts.
+I added an admin panel at /admin. (user: admin, pw:123456).
+The posts shows in the main page NEWEST first.
  
 
  ## HOW-TO run the server
