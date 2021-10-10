@@ -1,8 +1,6 @@
 # django_project
-I built a fully functional website with GUI for posting new posts.
-
-I added an admin panel at /admin. (user: admin, pw:123456).
-
+I built a fully functional website with GUI for posting new posts. <br />
+I added an admin panel at /admin. (user: admin, pw:123456).<br />
 The posts shows in the main page NEWEST first.
  
 
